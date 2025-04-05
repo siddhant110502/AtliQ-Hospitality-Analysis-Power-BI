@@ -1,1 +1,1 @@
-# AtliQ-Hospitality-Analysis-Power-BI
+# AtliQ_Hospitality_Analysis_PowerBI
